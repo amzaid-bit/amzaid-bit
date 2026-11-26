@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome
 Hello! My name is Ahmad Zaidan and I am currently a junior student at the University of Illinois Chicago, pursuing a BS in Computer Science, intending to graduate by December 2028. I am an alumnus of Moraine Valley Community College, graduating with an AS in 2026. This is my first semester at UIC, and I am grateful of the opportunities available to me. 
 
 I intend to become a software engineer, primarily in back end development. My primary programming languages are C/C++ and Java, with some past experience in Python. I am also learning SQL for a project on my own time. Other skills/tools include Unix, GDB, Valgrind, Google Workspace, Discrete Mathematics, Linear Algebra, and Data Structures and Algorithms.
